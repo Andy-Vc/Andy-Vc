@@ -2,7 +2,9 @@
 
 ## 💻 Sobre mí
 
-Estudiante de **Computación e Informática** en Cibertec, enfocado en desarrollo **Full Stack** con Java Spring Boot y Angular. Me apasiona aprender nuevas tecnologías y construir soluciones escalables.
+Desarrollador Full Stack con experiencia en Java Spring Boot, Angular y arquitecturas de microservicios.
+Construyo APIs REST, manejo mensajería asíncrona (RabbitMQ), caché con Redis y despliegues en Docker. Trabajo bases de datos SQL y desarrollo interfaces modulares en Angular.
+Enfocado en crear soluciones escalables, ordenadas y orientadas a buenas prácticas.
 
 ---
 
