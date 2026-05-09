@@ -40,8 +40,8 @@ Desarrollador Full Stack orientado a construir productos escalables, mantenibles
 
 ### Bases de Datos
 
-![MySQL](https://img.shields.io/badge/MySQL-0C3A61?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-104A74?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-146C94?style=for-the-badge&logo=supabase&logoColor=white) <img src="./neon-logo.svg" alt="Neon" height="28"/>
-![MongoDB](https://img.shields.io/badge/MongoDB-1B5D86?style=for-the-badge&logo=mongodb&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-2C73A1?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+<img src="https://img.shields.io/badge/MySQL-0C3A61?style=for-the-badge&logo=mysql&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/PostgreSQL-104A74?style=for-the-badge&logo=postgresql&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/Supabase-146C94?style=for-the-badge&logo=supabase&logoColor=white" height="28"/> <img src="./neon-logo.svg" alt="Neon" height="28"/>
+<img src="https://img.shields.io/badge/MongoDB-1B5D86?style=for-the-badge&logo=mongodb&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/SQL_Server-2C73A1?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="28"/>
 
 ### Deploy y Cloud
 
