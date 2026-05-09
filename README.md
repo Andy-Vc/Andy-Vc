@@ -1,48 +1,84 @@
-# Hola 👋, soy Andy Valdivia
+<div align="center">
 
-## 💻 Sobre mí
+![pixel-blue-banner](./Banner.gif)
 
-Desarrollador Full Stack con experiencia en Java Spring Boot, Angular y arquitecturas de microservicios.
-Construyo APIs REST, manejo mensajería asíncrona (RabbitMQ), caché con Redis y despliegues en Docker. Trabajo bases de datos SQL y desarrollo interfaces modulares en Angular.
-Enfocado en crear soluciones escalables, ordenadas y orientadas a buenas prácticas.
+</div>
+
+<div align="center">
+
+# ❄ Andy Valdivia ❄
+
+### Full Stack Developer
+
+</div>
+
+<div align="center">
+
+`Backend` `Frontend` `APIs REST` `Microservicios` `Arquitectura Limpia`
+
+</div>
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## Presentacion
 
-### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+Desarrollador Full Stack orientado a construir productos escalables, mantenibles y listos para produccion. Trabajo principalmente con Java Spring Boot y Angular, integrando servicios, bases de datos y buenas practicas de arquitectura para resolver problemas reales de negocio.
 
-### Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+---
 
-### Mobile
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+## Stack Tecnico
+
+<div align="center">
+
+### Lenguajes
+
+![Java](https://img.shields.io/badge/Java-0A3D6D?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/C%23-0E4D82?style=for-the-badge&logo=csharp&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0D4F8C?style=for-the-badge&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-0D4F8C?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-1D5E96?style=for-the-badge&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/Python-2C6FAA?style=for-the-badge&logo=python&logoColor=white)
+
+### Frameworks
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0D3C66?style=for-the-badge&logo=spring-boot&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-0F4A7A?style=for-the-badge&logo=angular&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-1B5B8E?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Bases de Datos
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-0C3A61?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-104A74?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-146C94?style=for-the-badge&logo=supabase&logoColor=white) <img src="./neon-logo.svg" alt="Neon" height="28"/>
+![MongoDB](https://img.shields.io/badge/MongoDB-1B5D86?style=for-the-badge&logo=mongodb&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-2C73A1?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### Deploy y Cloud
+
+![Render](https://img.shields.io/badge/Render-0B1F33?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-0B1F33?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-0A355B?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-0F4F80?style=for-the-badge&logo=docker&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-1A6596?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-2A78AA?style=for-the-badge&logo=redis&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-3A8ABB?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
 
 ---
 
-## 📫 Contacto
+## GitHub
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andy-valdivia-centeno-111222338)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andy.v.centeno@gmail.com)
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Andy-Vc&hide_border=true&background=0b1d33&ring=7fc8ff&fire=9dd7ff&currStreakLabel=7fc8ff&sideLabels=dceeff&currStreakNum=dceeff&sideNums=dceeff&dates=dceeff)](https://github.com/Andy-Vc)
+
+</div>
 
 ---
 
-📍 **Lima, Perú** | 🎓 **Cibertec 2024-2026**
+## Contacto
+
+<div align="center">
+
+<a href="https://linkedin.com/in/andy-valdivia-centeno-111222338"><img src="https://img.shields.io/badge/LinkedIn-0D4E85?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:andy.v.centeno@gmail.com"><img src="https://img.shields.io/badge/Gmail-1A6398?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+
+</div>
+
+---
+
+<div align="center">
+
+`Lima, Peru` `Cibertec 2024-2026` `Open to opportunities`
+
+![footer](./Footer.png)
+
+</div>
