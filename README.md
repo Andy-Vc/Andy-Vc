@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# ❄ Andy Valdivia ❄
+# ✦ Andy Valdivia ✦
 
 ### Full Stack Developer
 
